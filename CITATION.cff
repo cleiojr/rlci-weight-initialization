@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software or its experimental results, please cite the master's dissertation and this repository."
+title: "RLCI: Reference-Loss-Calibrated Initialization"
+type: software
+authors:
+  - family-names: "Couto Júnior"
+    given-names: "Cleio Sérgio"
+version: "1.0.0-dissertation"
+date-released: "2026-08-25"
+license: "MIT"
+keywords:
+  - neural network initialization
+  - weight initialization
+  - reference loss
+  - RLCI
+  - deep learning
+repository-code: "https://github.com/SEU-USUARIO/rlci-weight-initialization"
