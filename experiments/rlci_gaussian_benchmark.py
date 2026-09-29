@@ -16,7 +16,7 @@ Experimental procedure:
    across several random seeds.
 5. Save detailed CSV files for later statistical analysis.
 
-This is an experimental prototype, not an established published initializer.
+
 """
 
 from __future__ import annotations
